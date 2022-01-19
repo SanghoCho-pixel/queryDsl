@@ -49,9 +49,7 @@ class MemberTest {
             System.out.println("member.getTeam() = " + member.getTeam());
         }
 
-        Member member5 = new Member("member5", 50);
-        System.out.println("member5 = " + member5);
-        System.out.println("member5.getTeam() = " + member5.getTeam());
+
 
     }
 
